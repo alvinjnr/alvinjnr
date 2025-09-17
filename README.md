@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Norman Alvin Omondi!
 
+
+
 Welcome to my GitHub profile!
 
 I am an educator and a special needs teacher specializing in Kenyan Sign Language 🇰🇪🤟. My passion for technology led me to pursue a career as a Full Stack Developer, where I enjoy building solutions that make a difference.
